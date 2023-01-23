@@ -58,5 +58,4 @@ public class WelcomeFrame extends JFrame implements ActionListener
 		super.paint(g);
 		g.drawImage(image, 0, 0, new JRootPane());
 	}
-	
 }
